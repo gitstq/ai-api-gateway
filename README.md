@@ -2,7 +2,7 @@
 
 # 🦅 蓝鹰AI网关 | BlueEagle AI Gateway
 
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/ai-api-gateway?style=social)](https://github.com/YOUR_USERNAME/ai-api-gateway)
+[![Stars](https://img.shields.io/github/stars/gitstq/ai-api-gateway?style=social)](https://github.com/gitstq/ai-api-gateway)
 [![API倍率](https://img.shields.io/badge/API倍率-0.09x-brightgreen)](https://ahg.codes)
 [![充值比例](https://img.shields.io/badge/充值比例-1:1-blue)](https://ahg.codes)
 [![原生号池](https://img.shields.io/badge/号池-原生官方-orange)](https://ahg.codes)
